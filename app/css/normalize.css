@@ -1,0 +1,6 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-box-shadow: 0 0 1px red;
+  box-shadow: 0 0 1px red;
+}
