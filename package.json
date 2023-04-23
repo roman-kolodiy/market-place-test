@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/roman-kolodiy/market-place-test#readme",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^5.0.0"
   }
 }
