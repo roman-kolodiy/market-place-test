@@ -18,6 +18,6 @@
   "homepage": "https://github.com/roman-kolodiy/market-place-test#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^5.0.0"
+    "gulp-autoprefixer": "^8.0.0"
   }
 }
